@@ -1,0 +1,15 @@
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.csproj.AssemblyReference.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.AssemblyInfoInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.AssemblyInfo.cs
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.csproj.CoreCompileInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\bin\Debug\net6.0\AulasDeCsharpe2.exe
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\bin\Debug\net6.0\AulasDeCsharpe2.deps.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\bin\Debug\net6.0\AulasDeCsharpe2.runtimeconfig.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\bin\Debug\net6.0\AulasDeCsharpe2.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\bin\Debug\net6.0\AulasDeCsharpe2.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\refint\AulasDeCsharpe2.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\AulasDeCsharpe2.genruntimeconfig.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasDeCsharpe2\AulasDeCsharpe2\obj\Debug\net6.0\ref\AulasDeCsharpe2.dll
