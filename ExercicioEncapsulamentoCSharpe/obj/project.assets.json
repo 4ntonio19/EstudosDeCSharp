@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\AulasDeCsharpe2\\AulasDeCSharpeArrays.csproj",
-      "projectName": "AulasDeCSharpeArrays",
-      "projectPath": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\AulasDeCsharpe2\\AulasDeCSharpeArrays.csproj",
+      "projectUniqueName": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\Program\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\Program\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\vgonc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\AulasDeCsharpe2\\obj\\",
+      "outputPath": "C:\\Users\\vgonc\\Documents\\Vs Comunnity c#\\AulasDeCsharpe2\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vgonc\\AppData\\Roaming\\NuGet\\NuGet.Config",

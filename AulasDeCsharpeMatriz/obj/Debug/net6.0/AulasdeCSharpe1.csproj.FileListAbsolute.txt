@@ -1,0 +1,15 @@
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.csproj.AssemblyReference.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.AssemblyInfoInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.AssemblyInfo.cs
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.csproj.CoreCompileInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\bin\Debug\net6.0\AulasdeCSharpe1.exe
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\bin\Debug\net6.0\AulasdeCSharpe1.deps.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\bin\Debug\net6.0\AulasdeCSharpe1.runtimeconfig.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\bin\Debug\net6.0\AulasdeCSharpe1.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\bin\Debug\net6.0\AulasdeCSharpe1.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\refint\AulasdeCSharpe1.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\AulasdeCSharpe1.genruntimeconfig.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\AulasdeCsharpe1\AulasdeCSharpe1\obj\Debug\net6.0\ref\AulasdeCSharpe1.dll

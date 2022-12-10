@@ -1,63 +1,49 @@
-﻿using AulasDeCsharpe2;
-using System;
+﻿using System;
 using System.Globalization;
-using System.Net.Http.Headers;
-using System.Runtime.Serialization;
-using System.Collections.Generic;
 
 namespace Course
 {
     class Program
     {
-
         static void Main(string[] args)
         {
 
-            Console.Write("How many employees will be registered? ");
-            int number = int.Parse(Console.ReadLine());
+            ContaBancaria conta;
 
-            List<Employee> funcionarios = new List<Employee>();
-
-            for (int i = 0; i < number; i++)
+            Console.Write("Entre o número da conta: ");
+            int numero = int.Parse(Console.ReadLine());
+            Console.Write("Entre o titular da conta: ");
+            string titular = Console.ReadLine();
+            Console.Write("Haverá depósito inicial (s/n)? ");
+            char resp = char.Parse(Console.ReadLine());
+            if (resp == 's' || resp == 'S')
             {
-                int z = 1;
-                z = z + i;
-                Console.WriteLine("Employee #" + z + ":");
-
-                Console.Write("ID: ");
-                int id = int.Parse(Console.ReadLine());
-
-                Console.Write("Name: ");
-                string name = Console.ReadLine();
-
-                Console.Write("Salary: ");
-                double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                funcionarios.Add(new Employee(id, name, salary));
-
-            }
-
-            Console.Write("Enter the employee id that will have salary increase:");
-            int searchId = int.Parse(Console.ReadLine());
-
-            Employee increase = funcionarios.Find(x => x.Id == searchId);
-
-            if(increase != null)
-            {
-                Console.Write("Enter the percentage: ");
-                double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                increase.IncreaseSalary(percentage);
+                Console.Write("Entre o valor de depósito inicial: ");
+                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                conta = new ContaBancaria(numero, titular, depositoInicial);
             }
             else
             {
-                Console.WriteLine("This Id does not exist!");
+                conta = new ContaBancaria(numero, titular);
             }
 
-            Console.WriteLine("Updated list of employees:");
-            foreach  (Employee obj in funcionarios)
-            {
-                Console.WriteLine(obj);
-            }
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta:");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre um valor para depósito: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Deposito(quantia);
+            Console.WriteLine("Dados da conta atualizados:");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre um valor para saque: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Saque(quantia);
+            Console.WriteLine("Dados da conta atualizados:");
+            Console.WriteLine(conta);
         }
     }
 }
