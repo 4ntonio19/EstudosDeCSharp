@@ -1,0 +1,15 @@
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposicoes.exe
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposicoes.deps.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposicoes.runtimeconfig.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposicoes.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposicoes.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.csproj.AssemblyReference.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.AssemblyInfoInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.AssemblyInfo.cs
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.csproj.CoreCompileInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\refint\EnumeracoesEComposicoes.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposicoes.genruntimeconfig.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharpe\Enumeracoes&Composicoes\EnumeracoesEComposicoes\obj\Debug\net6.0\ref\EnumeracoesEComposicoes.dll
