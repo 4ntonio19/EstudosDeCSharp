@@ -1,0 +1,15 @@
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposição.exe
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposição.deps.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposição.runtimeconfig.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposição.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\bin\Debug\net6.0\EnumeracoesEComposição.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.csproj.AssemblyReference.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.AssemblyInfoInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.AssemblyInfo.cs
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.csproj.CoreCompileInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\refint\EnumeracoesEComposição.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\EnumeracoesEComposição.genruntimeconfig.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\EnumeracoesEComposicoes\obj\Debug\net6.0\ref\EnumeracoesEComposição.dll
