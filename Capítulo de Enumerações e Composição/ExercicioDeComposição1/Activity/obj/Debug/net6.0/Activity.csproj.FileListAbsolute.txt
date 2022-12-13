@@ -1,0 +1,15 @@
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\bin\Debug\net6.0\Activity.exe
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\bin\Debug\net6.0\Activity.deps.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\bin\Debug\net6.0\Activity.runtimeconfig.json
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\bin\Debug\net6.0\Activity.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\bin\Debug\net6.0\Activity.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.csproj.AssemblyReference.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.AssemblyInfoInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.AssemblyInfo.cs
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\refint\Activity.dll
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.pdb
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\Activity.genruntimeconfig.cache
+C:\Users\vgonc\Documents\Vs Comunnity c#\EstudosDeCSharp\Capítulo de Enumerações e Composição\ExercicioDeComposição1\Activity\obj\Debug\net6.0\ref\Activity.dll
